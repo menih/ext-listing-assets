@@ -11,3 +11,4 @@ appears in any of them.
 | `bullseye-backlog/` | BullseyeBacklog |
 | `fleetview/` | FleetView |
 | `deepagent/` | DeepAgent |
+| `bullseye-notify/` | BullseyeNotify (`icon.png` is the shipped extension icon, not a panel render) |
